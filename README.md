@@ -6,3 +6,10 @@
         3. Retrieving student information by id.
         4. Updating student information by id.
         5. Deleting a student entry.
+        
+        
+        <img width="1440" alt="Overview" src="https://github.com/KsRenu/SampleMinimalAPI/blob/main/Screenshots/Overview.png">
+
+        
+        
+        
